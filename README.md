@@ -1,10 +1,10 @@
 # github-practice
 Merely a practice site.
 
+< readme-edits
+# I have never used GitHub before so I am trying out all of the functions to see how it works.
 
+# Here I am practicing GitHub.
 
-Here I am practicing GitHub
-
-
-
-Trying to figure out how to do a pull (pull this).
+# Trying to figure out how to do a pull (pull this).
+> master
